@@ -1,12 +1,12 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [presenterm](https://github.com/mfontanini/presenterm)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [presenterm](https://github.com/mfontanini/presenterm).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/presenterm](https://draculatheme.com/presenterm).
 
 ## Team
 
