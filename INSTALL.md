@@ -29,7 +29,6 @@ theme:
 
 Copy the contents of the `themes/` directory into the `themes/` directory under the `presenterm` [configuration directory](https://mfontanini.github.io/presenterm/configuration/introduction.html). Now, you can activate the theme by simply using its name in the YAML front matter of your presentation or by passing the `--theme` CLI option.
 
-
 ```yaml
 ---
 theme:
